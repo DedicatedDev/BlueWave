@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>90457780568-ck1aoej4clginb11ls1v9eog1c13g6qn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.90457780568-ck1aoej4clginb11ls1v9eog1c13g6qn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCky8s_AlBS4WiZUpV_F1Us4B7QpjgCKg4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>90457780568</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sdnbhd.bluewave</string>
+	<key>PROJECT_ID</key>
+	<string>bluewave-816cc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bluewave-816cc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:90457780568:ios:18ca6adc8eee7928f4f52d</string>
+	<key>DATABASE_URL</key>
+	<string>https://bluewave-816cc.firebaseio.com</string>
+</dict>
+</plist>
